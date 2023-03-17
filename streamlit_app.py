@@ -60,4 +60,4 @@ if streamlit.buton('Get fruit load list'):
 
 
    
-streamlit.stop()
+#streamlit.stop()
